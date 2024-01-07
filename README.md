@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tak Hur
 - 👀 I’m interested in Quantum Computing
-- 🌱 I’m currently learning Physics with Theoretical Physics at Imperial College London.
-- 📫 How to reach me: th817@ic.ac.uk
+- 🌱 I’m QML researcher / PhD student at Yonsei University.
+- 📫 How to reach me: takh0404@yonsei.ac.kr
 
 <!---
 takh04/takh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
